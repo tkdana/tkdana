@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @tkdana
-- 👀 I’m interested in Linux, DevOps, Cloud, Python
 - 📫 reach me tkdana@gmail.com
 
 <!---
